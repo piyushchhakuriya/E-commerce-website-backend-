@@ -1,4 +1,4 @@
-// we are creating the backend for e-commerce website
+// we are creating the backend for e-commerce website complete
 /* 
 things we want in our website
 
